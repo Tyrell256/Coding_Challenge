@@ -13,6 +13,9 @@ int adding( ){
 
     int anwser = var1 + var2;
 
+   
+    
+
     std::cout << "The answer is " << anwser << "\n";
 
     return anwser;
